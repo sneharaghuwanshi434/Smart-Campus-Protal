@@ -47,20 +47,6 @@ The goal of this project is to:
 
 ---
 
-## 📁 Project Structure
-
-smart-campus-portal/
-│── index.html
-│── dashboard.html upcoming
-│── faculty.html upcoming
-│── resources.html upcoming
-│── contact.html upcoming
-│── css/ upcoming
-│── js/ upcoming
-│── images/ upcoming
-
----
-
 ## 📈 Revision Progress
 
 * Day 1: Created basic HTML structure (navbar, hero section, footer)
